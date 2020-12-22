@@ -1,0 +1,73 @@
+
+#cabecera{
+ background-color: powderblue;
+ 
+}
+
+h1{
+    color: black;
+}
+
+#cab_1{
+    background-color: rgb(223, 201, 41);
+}
+#cab_2{
+    background-color:rgba(0, 0, 0, 0.938);
+}
+
+
+#contenido{
+  background-color: royalblue;
+  
+}
+#contenido1{
+    background-color: royalblue;
+    height: 250px;
+  }
+  #contenido1 h2{
+      margin-top: 10px;
+  }
+  
+
+#con_1{
+    background-color: royalblue;
+}
+#con_2{
+    background-color: royalblue;
+}
+#con_3{
+    background-color: royalblue;
+}
+#contenido2{
+    background-color: black;
+    height: 350px;
+    padding-top: 100px;
+    
+  }
+
+  #text-1{
+      color: white;
+  }
+
+#contacto {
+    background-color: royalblue;
+    height: 500px;
+    
+}
+label{
+    padding-top: 10px;
+}
+#bot_cont{
+    margin-top: 20px;
+}
+footer {
+    background-color: black;
+   color: white;
+   padding: 10px; 
+padding-left: 30px;
+}
+p.copyright {
+    padding: 20px;
+    text-align: right;
+    color: white;
+  }
